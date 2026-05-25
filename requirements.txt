@@ -1,3 +1,2 @@
-python-telegram-bot==21.3
-gunicorn
+python-telegram-bot==22.1
 python-dotenv
